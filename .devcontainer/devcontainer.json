@@ -1,0 +1,9 @@
+{
+  "name": "GESIS Surf paper (TeX Live 2025)",
+  "image": "texlive/texlive:TL2025-historic",
+  "customizations": {
+    "vscode": {
+      "extensions": ["James-Yu.latex-workshop"]
+    }
+  }
+}

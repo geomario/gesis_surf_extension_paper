@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this paper, please cite it as below."
+title: "GESIS Surf: An Open-Source Infrastructure for Privacy-Preserving Longitudinal Web Browsing Data Collection"
+type: article
+authors:
+  - given-names: Mario Alberto
+    family-names: Ramirez
+    affiliation: "GESIS – Leibniz Institute for the Social Sciences"
+    orcid: "https://orcid.org/0009-0005-0960-4745"
+  - given-names: Frank
+    family-names: Mangold
+    affiliation: "GESIS – Leibniz Institute for the Social Sciences"
+  - given-names: Sebastian
+    family-names: Stier
+    affiliation: "GESIS – Leibniz Institute for the Social Sciences; University of Mannheim"
+repository-code: "https://github.com/gesiscss/gesis_surf_extension"
+license: CC-BY-4.0
+date-released: "2026-10-30"
+keywords:
+  - web tracking
+  - digital behavioral data
+  - browser-based data collection
+  - computational social science
+  - research infrastructure
+  - longitudinal data collection
