@@ -13,3 +13,6 @@
 # Local secrets and editor state
 .env
 .DS_Store
+
+# The compiled paper shown in the README
+!GESIS_Surf_preprint.pdf
