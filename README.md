@@ -1,7 +1,7 @@
 # GESIS Surf: An Open-Source Infrastructure for Privacy-Preserving Longitudinal Web Browsing Data Collection
 
-LaTeX source of the paper describing [GESIS Surf](https://github.com/gesiscss/gesis_surf_extension),
-a browser extension and backend for collecting web browsing data in academic panel studies.
+LaTeX source of the paper describing GESIS Surf, a browser extension and backend for
+collecting web browsing data in academic panel studies.
 
 **Authors:** Mario Alberto Ramirez, Frank Mangold, Sebastian Stier
 (GESIS – Leibniz Institute for the Social Sciences; University of Mannheim)
@@ -9,8 +9,14 @@ a browser extension and backend for collecting web browsing data in academic pan
 **Status:** submitted to *SoftwareX* (October 2026).
 **Preprint:** arXiv link will be added once the preprint is announced.
 
-The software itself is in a separate repository:
-<https://github.com/gesiscss/gesis_surf_extension>.
+## Software
+
+GESIS Surf consists of two repositories:
+
+| Component | Repository |
+|---|---|
+| Browser extension (Chrome and Firefox) | <https://github.com/gesiscss/gesis_surf_extension> |
+| Backend (REST API, database, infrastructure) | <https://github.com/gesiscss/gesis_surf_backend> |
 
 ## Contents
 
@@ -65,4 +71,5 @@ Until the article is published, please cite the preprint. Citation metadata is i
 
 The paper text and figures are licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see [`LICENSE`](LICENSE)).
-The GESIS Surf software is licensed separately under the MIT License in its own repository.
+The GESIS Surf software (extension and backend) is licensed separately under the MIT License
+in its own repositories.
