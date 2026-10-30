@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this paper, please cite it as below."
 title: "GESIS Surf: An Open-Source Infrastructure for Privacy-Preserving Longitudinal Web Browsing Data Collection"
 type: article
+version: "2.0.0"
 authors:
   - given-names: Mario Alberto
     family-names: Ramirez
