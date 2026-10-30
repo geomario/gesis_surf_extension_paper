@@ -116,5 +116,5 @@ in its own repositories.
 ---
 
 <div align="center">
-Developed at <a href="https://www.gesis.org/en/home">GESIS – Leibniz Institute for the Social Sciences</a>
+Made with ❤️ and 😭 at <a href="https://www.gesis.org/en/home">GESIS</a>
 </div>
