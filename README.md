@@ -36,7 +36,7 @@
 **Authors:** Mario Alberto Ramirez, Frank Mangold, Sebastian Stier
 <br>GESIS – Leibniz Institute for the Social Sciences · University of Mannheim
 
-**Status:** 📬 submitted to *SoftwareX* (October 2026) · 📝 arXiv preprint link coming soon
+**Status:** 📬 submitted to *SoftwareX* (October 2026) · 📝 [arXiv:2610.41441](https://arxiv.org/abs/2610.41441)
 
 This repository contains the LaTeX source of the paper, ready to build in three different ways.
 
